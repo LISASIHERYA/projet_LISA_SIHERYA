@@ -1,0 +1,24 @@
+c:\users\dimitrii 33\documents\visual studio 2015\Projects\Gestion_de_Vente\Gestion_de_Vente\bin\Debug\Gestion_de_Vente.exe.config
+c:\users\dimitrii 33\documents\visual studio 2015\Projects\Gestion_de_Vente\Gestion_de_Vente\bin\Debug\Gestion_de_Vente.exe
+c:\users\dimitrii 33\documents\visual studio 2015\Projects\Gestion_de_Vente\Gestion_de_Vente\bin\Debug\Gestion_de_Vente.pdb
+c:\users\dimitrii 33\documents\visual studio 2015\Projects\Gestion_de_Vente\Gestion_de_Vente\obj\Debug\Gestion_de_Vente.csprojResolveAssemblyReference.cache
+c:\users\dimitrii 33\documents\visual studio 2015\Projects\Gestion_de_Vente\Gestion_de_Vente\obj\Debug\Gestion_de_Vente.FrmAchat.resources
+c:\users\dimitrii 33\documents\visual studio 2015\Projects\Gestion_de_Vente\Gestion_de_Vente\obj\Debug\Gestion_de_Vente.FrmClient.resources
+c:\users\dimitrii 33\documents\visual studio 2015\Projects\Gestion_de_Vente\Gestion_de_Vente\obj\Debug\Gestion_de_Vente.FrmPrincipale.resources
+c:\users\dimitrii 33\documents\visual studio 2015\Projects\Gestion_de_Vente\Gestion_de_Vente\obj\Debug\Gestion_de_Vente.Properties.Resources.resources
+c:\users\dimitrii 33\documents\visual studio 2015\Projects\Gestion_de_Vente\Gestion_de_Vente\obj\Debug\Gestion_de_Vente.FrmArticle.resources
+c:\users\dimitrii 33\documents\visual studio 2015\Projects\Gestion_de_Vente\Gestion_de_Vente\obj\Debug\Gestion_de_Vente.csproj.GenerateResource.Cache
+c:\users\dimitrii 33\documents\visual studio 2015\Projects\Gestion_de_Vente\Gestion_de_Vente\obj\Debug\Gestion_de_Vente.exe
+c:\users\dimitrii 33\documents\visual studio 2015\Projects\Gestion_de_Vente\Gestion_de_Vente\obj\Debug\Gestion_de_Vente.pdb
+C:\Users\LENOVO\Desktop\Gestion_de_Vente\Gestion_de_Vente\bin\Debug\Gestion_de_Vente.exe.config
+C:\Users\LENOVO\Desktop\Gestion_de_Vente\Gestion_de_Vente\obj\Debug\Gestion_de_Vente.exe
+C:\Users\LENOVO\Desktop\Gestion_de_Vente\Gestion_de_Vente\obj\Debug\Gestion_de_Vente.pdb
+C:\Users\LENOVO\Desktop\Gestion_de_Vente\Gestion_de_Vente\bin\Debug\Gestion_de_Vente.exe
+C:\Users\LENOVO\Desktop\Gestion_de_Vente\Gestion_de_Vente\bin\Debug\Gestion_de_Vente.pdb
+C:\Users\LENOVO\Desktop\Gestion_de_Vente\Gestion_de_Vente\obj\Debug\Gestion_de_Vente.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Gestion_de_Vente\Gestion_de_Vente\obj\Debug\Gestion_de_Vente.FrmAchat.resources
+C:\Users\LENOVO\Desktop\Gestion_de_Vente\Gestion_de_Vente\obj\Debug\Gestion_de_Vente.FrmClient.resources
+C:\Users\LENOVO\Desktop\Gestion_de_Vente\Gestion_de_Vente\obj\Debug\Gestion_de_Vente.FrmPrincipale.resources
+C:\Users\LENOVO\Desktop\Gestion_de_Vente\Gestion_de_Vente\obj\Debug\Gestion_de_Vente.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Gestion_de_Vente\Gestion_de_Vente\obj\Debug\Gestion_de_Vente.FrmArticle.resources
+C:\Users\LENOVO\Desktop\Gestion_de_Vente\Gestion_de_Vente\obj\Debug\Gestion_de_Vente.csproj.GenerateResource.Cache
